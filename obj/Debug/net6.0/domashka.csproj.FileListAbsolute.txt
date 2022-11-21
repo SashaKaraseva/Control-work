@@ -1,0 +1,15 @@
+C:\Users\kalas\OneDrive\Рабочий стол\domashka\bin\Debug\net6.0\domashka.exe
+C:\Users\kalas\OneDrive\Рабочий стол\domashka\bin\Debug\net6.0\domashka.deps.json
+C:\Users\kalas\OneDrive\Рабочий стол\domashka\bin\Debug\net6.0\domashka.runtimeconfig.json
+C:\Users\kalas\OneDrive\Рабочий стол\domashka\bin\Debug\net6.0\domashka.dll
+C:\Users\kalas\OneDrive\Рабочий стол\domashka\bin\Debug\net6.0\domashka.pdb
+C:\Users\kalas\OneDrive\Рабочий стол\domashka\obj\Debug\net6.0\domashka.csproj.AssemblyReference.cache
+C:\Users\kalas\OneDrive\Рабочий стол\domashka\obj\Debug\net6.0\domashka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalas\OneDrive\Рабочий стол\domashka\obj\Debug\net6.0\domashka.AssemblyInfoInputs.cache
+C:\Users\kalas\OneDrive\Рабочий стол\domashka\obj\Debug\net6.0\domashka.AssemblyInfo.cs
+C:\Users\kalas\OneDrive\Рабочий стол\domashka\obj\Debug\net6.0\domashka.csproj.CoreCompileInputs.cache
+C:\Users\kalas\OneDrive\Рабочий стол\domashka\obj\Debug\net6.0\domashka.dll
+C:\Users\kalas\OneDrive\Рабочий стол\domashka\obj\Debug\net6.0\refint\domashka.dll
+C:\Users\kalas\OneDrive\Рабочий стол\domashka\obj\Debug\net6.0\domashka.pdb
+C:\Users\kalas\OneDrive\Рабочий стол\domashka\obj\Debug\net6.0\domashka.genruntimeconfig.cache
+C:\Users\kalas\OneDrive\Рабочий стол\domashka\obj\Debug\net6.0\ref\domashka.dll
